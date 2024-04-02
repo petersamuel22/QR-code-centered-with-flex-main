@@ -1,0 +1,35 @@
+body {
+    background-color: blanchedalmond;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.row {
+    text-align: center;
+    background-color: white;
+    border-radius: 7%;
+    height: 520px;
+    padding: 1%;
+    width: 350px;
+    /* position: relative; */
+}
+
+img {
+    width: 100%;
+    border-radius: 10%;
+    padding: 2%;
+}
+
+h3 {
+    font-size: 1.5rem;
+    padding: 5%;
+}
+
+p {
+    padding: 1%;
+}
